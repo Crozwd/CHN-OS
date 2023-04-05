@@ -1,2 +1,2 @@
-# Welcome to use CHN-OS
+# WELCOME TO USE CHN-OS
 ### BETTER CHANGE WIN10 by Crozwd
