@@ -1,6 +1,8 @@
 # WELCOME TO USE CHN-OS
 # ----BETTER CHANGED WIN10 by Crozwd
-## [Introduction]  
-Traditional WIN10 has many
+## [介绍1]  
+传统WIN10有许多我们普通人不需要的程序，比如Defender  
+所以我们CC_Land更改了这些无用的设置来提升游戏/工作的性能，并且对传统WIN10枯燥的界面进行了美化。
+我们也安装了许多有用的软件以便用户可以更方便的工作——因为他们不再需要在每次重装完系统后都需要多次设置和安装应用。
 
-
+##  [更改设置]
